@@ -1,0 +1,25 @@
+{
+	"name": "storefront-x/sfx_core",
+	"description": "Metapackage for downloading all necessary SFX modules",
+	"type": "library",
+	"homepage": "https://github.com/storefront-x/sfx_core",
+	"config": {
+            "sort-packages": true
+        },
+	"require": {
+		"storefront-x/magento-module-catalog-graphql-extended": "^1.0",
+        "storefront-x/magento-module-customer-graph-ql-extended": "^1.0",
+        "storefront-x/magento-module-email-url-extended": "^1.0",
+        "storefront-x/magento-module-product-alerts-graphql": "^1.0",
+        "storefront-x/magento-module-product-attributes-graph-ql": "^1.0",
+        "storefront-x/magento-module-sfx-google-pay-braintree": "^1.0",
+        "storefront-x/magento-module-sfx-store-config": "^1.0",
+        "storefront-x/magento-module-storeconfig-graphql": "^1.0"
+	},
+	"license": [
+            "MIT"
+        ],
+	"require-dev": {},
+	"autoload": {},
+	"minimum-stability": "stable"
+}
