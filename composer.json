@@ -7,19 +7,14 @@
             "sort-packages": true
         },
 	"require": {
-		"storefront-x/magento-module-blog-graphql-extended": "^1.0",
-        "storefront-x/magento-module-catalog-graphql-extended": "^1.0",
+		"storefront-x/magento-module-catalog-graphql-extended": "^1.0",
         "storefront-x/magento-module-customer-graph-ql-extended": "^1.0",
         "storefront-x/magento-module-email-url-extended": "^1.0",
-        "storefront-x/magento-module-gdpr-cookie-graphql": "^1.0",
         "storefront-x/magento-module-product-alerts-graphql": "^1.0",
         "storefront-x/magento-module-product-attributes-graph-ql": "^1.0",
-        "storefront-x/magento-module-product-labels-extended-graphql": "^1.0",
         "storefront-x/magento-module-sfx-google-pay-braintree": "^1.0",
         "storefront-x/magento-module-sfx-store-config": "^1.0",
-        "storefront-x/magento-module-shop-by-brand-graphql-extended": "^1.0",
-        "storefront-x/magento-module-storeconfig-graphql": "^1.0",
-        "storefront-x/magento-module-shop-by-brand-extended"
+        "storefront-x/magento-module-storeconfig-graphql": "^1.0"
 	},
 	"license": [
             "MIT"
